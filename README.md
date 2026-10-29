@@ -1,3 +1,5 @@
+[![Full Stack Engineer portfolio header](portfolio_header.png)](https://timothyw.work)
+
 # Timothy Williams
 
 ### Full-Stack Developer
